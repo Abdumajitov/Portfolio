@@ -11,18 +11,18 @@ const Contacts = () => {
           <ul className="content-list">
             <li className="content-list__item">
               <h2 className="title-2">Location</h2>
-              <p>Moscow, Russia</p>
+              <p>Tashkent, Uzbekistan</p>
             </li>
             <li className="content-list__item">
               <h2 className="title-2">Telegram / WhatsApp</h2>
               <p>
-                <a href="tel:+79051234567">+7 (905) 123-45-67</a>
+                <a href="tel:+998900263965">+998 (90) 026-39-65</a>
               </p>
             </li>
             <li className="content-list__item">
               <h2 className="title-2">Email</h2>
               <p>
-                <a href="mailto:webdev@protonmail.com">webdev@protonmail.com</a>
+                <a href="samirabdumajitov200@gmail.com">samirabdumajitov200@gmail.com</a>
               </p>
             </li>
           </ul>
